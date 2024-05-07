@@ -1,4 +1,10 @@
-### Hi there 👋
+### Aspirante no desenvolvimento Back end.
+
+- .NET, C#, ASP .NET CORE 
+-  SQL SERVER 
+- POSTMAN (JSON)
+- HTML, CSS, BOOTSTRAP
+
 
 <!--
 **vitorgoat/vitorgoat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
