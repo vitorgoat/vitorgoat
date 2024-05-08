@@ -10,7 +10,7 @@ public class SobreMim
     public string Nome { get; set; } = "Vitor";
     public string[] Tecnologias { get; set; } = new string[]
     {
-        "C#", "ASP.NET Core", "Entity Framework", "SQL Server", "Docker",
+        "C#", "ASP.NET Core", "Entity Framework", "SQL Server", "Azure Data Studio", "Docker",
         "HTML", "CSS", "Bootstrap"
     };
     public override string ToString()
