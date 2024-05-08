@@ -1,22 +1,50 @@
-### Aspirante no desenvolvimento Back end.
+---
 
-- .NET, C#, ASP .NET CORE 
--  SQL SERVER 
-- POSTMAN (JSON)
-- HTML, CSS, BOOTSTRAP
+### Sou apaixonado por tecnologia!
 
+Já atuei como desenvolvedor web, sou implantador de sistemas web ERP voltado para indústria e atualmente estou concentrado em aprimorar minhas habilidades com desenvolvimento backend e novas tecnologias.
 
-<!--
-**vitorgoat/vitorgoat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```csharp
+public class SobreMim
+{
+    public string Nome { get; set; } = "Vitor";
+    public string[] Tecnologias { get; set; } = new string[]
+    {
+        "C#", "ASP.NET Core", "Entity Framework", "SQL Server", "Docker",
+        "HTML", "CSS", "Bootstrap"
+    };
+    public override string ToString()
+    {
+        return $"Me chamo {Nome}, e estou desenvolvendo habilidades utilizando as tecnologias: {string.Join(", ", Tecnologias)}.";
+    }
+}
 
-Here are some ideas to get you started:
+public class Habilidades
+{
+    public string[] Linguagens { get; set; } = new string[]
+    {
+        "C#"
+    };
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    public string[] BancoDeDados { get; set; } = new string[]
+    {
+        "Microsoft SQL Server"
+    };
+
+    public string[] Ferramentas { get; set; } = new string[]
+    {
+        "Azure Data Studio",
+        "Postman",
+        "Visual Studio Code",
+        "GitHub"
+    };
+
+   public override string ToString()
+   {
+     return $"Habilidades" +
+            $"Linguagens: {string.Join(", ", Linguagens)} "+
+            $"Banco de Dados: {string.Join(", ", BancoDeDados)} "+
+            $"Ferramentas: {string.Join(", ", Ferramentas)}";
+   }
+
+}
