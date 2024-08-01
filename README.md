@@ -1,6 +1,6 @@
 
 
-<h5> Sou implantador de sistemas web ERP voltados para indústrias, já atuei como desenvolvedor web, e atualmente estou focado em aprimorar minhas habilidades no desenvolvimento backend e desbravar novas tecnologias.</h5>
+<h5> SGraduado em análise e desenvolvimento de sistemas e estudante assíduo de novas tecnologias, atualmente aprimorando minhas habilidades com desenvolvimento Back end. Além disso, estou sempre expandindo meu conhecimento explorando novas ferramentas..</h5>
 
 
 ### About me
@@ -11,7 +11,7 @@ public class SobreMim
     public string Nome { get; set; } = "Vitor Brito";
     public string[] Tecnologias { get; set; } = new string[]
     {
-        "C#", "ASP.NET Core", "Entity Framework", "SQL Server", "Docker",
+        "C#", "ASP.NET Core", "Entity Framework", "SQL Server",
         "HTML", "CSS", "Bootstrap"
     };
     public override string ToString()
