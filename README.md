@@ -3,7 +3,7 @@
 
 
  <h2>Sobre mim</h2> 
-Formado em análise e desenvolvimento de sistemas, sou implantador de softwares voltados para indústria ERP, e sou apaixonado por desenvolvimento backend, atualmente aprimorando meus conhecimentos com .NET C#.
+Formado em análise e desenvolvimento de sistemas, sou desenvolvedor de softwares voltados para indústria ERP, e sou apaixonado por desenvolvimento backend, atualmente aprimorando meus conhecimentos com novas tecnologias.
 
 <h2>Redes Sociais</h2>
 
