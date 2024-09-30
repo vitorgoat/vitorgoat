@@ -3,7 +3,7 @@
 <div align="center">
 <img height="50" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 </div>
-Sou formado em Análise e Desenvolvimento de Sistemas e atuo como desenvolvedor de software, especializado em soluções ERP para a indústria. Tenho uma grande paixão pelo desenvolvimento backend, especialmente com .NET e C#. Estou sempre buscando aprimorar meus conhecimentos e me atualizar com novas tecnologias.
+Sou formado em Análise e Desenvolvimento de Sistemas e atuo como implantador de sistemas ERP voltados para a indústria. Tenho uma grande paixão pelo desenvolvimento backend, especialmente com .NET e C#. Estou sempre buscando aprimorar meus conhecimentos e me atualizar com novas tecnologias.
 
 <h2>Redes Sociais</h2>
 
