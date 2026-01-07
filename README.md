@@ -1,9 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
 <h1 align="center">Vitor Brito</h1>
 <div align="center">
-<img height="50" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 </div>
-Sou formado em Análise e Desenvolvimento de Sistemas e atuo como implantador de sistemas ERP voltados para a indústria. Tenho uma grande paixão pelo desenvolvimento backend, especialmente com .NET e C#. Estou sempre buscando aprimorar meus conhecimentos e me atualizar com novas tecnologias.
+Desenvolvedor Back-End .NET com experiência no desenvolvimento de APIs RESTful e sistemas ERP distribuídos e escaláveis, utilizando C#, .NET Core, ASP.NET MVC, mensageria, Docker e pipelines CI/CD com Jenkins. Atuação forte em arquitetura de software, Clean Code e SOLID, com domínio de bancos de dados relacionais, Entity Framework e LINQ, focando performance, consistência e manutenibilidade. Experiência em integração com front-end (ExtJS e React/TypeScript) e trabalho em ambientes ágeis (SCRUM), lidando com múltiplas prioridades e entrega contínua.
 
 <h2>Redes Sociais</h2>
 
@@ -32,8 +31,6 @@ Sou formado em Análise e Desenvolvimento de Sistemas e atuo como implantador de
 </div>
 
 <div  align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgoat&layout=compact&langs_count=7&theme=react)
 
 </div>
  
